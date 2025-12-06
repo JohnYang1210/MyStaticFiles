@@ -8,6 +8,8 @@ it's really useful and convenient for me!
 
 Say that, If we put `logo.png` in the folder of `images` in this repo,then we can magically get the cdn url of the following:
 
+
+
 ```
 https://cdn.jsdelivr.net/gh/johnyang1210/mystaticfiles@latest/images/logo.png
 
